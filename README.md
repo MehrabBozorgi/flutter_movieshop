@@ -1,16 +1,6 @@
-# flutter_movie_shop
+![Untitled-11](https://github.com/MehrabBozorgi/flutter_movieshop/assets/78899995/de205133-cd7f-467f-ae7f-7ed324666e01)# flutter_movie_shop
 
-A new Flutter project.
 
-## Getting Started
+![Untitled-11](https://github.com/MehrabBozorgi/flutter_movieshop/assets/78899995/0eb5f19f-54bd-4b33-97b7-4bd712e97087)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
